@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/vineeth/Desktop/III-I/MR/project-nerf/ros-simulations/catkin_ws/src/realsense_gazebo_plugin/include/**",
+        "/home/vineeth/Desktop/III-I/MR/project-nerf/ros-simulations/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/vineeth/Desktop/III-I/MR/project-nerf/ros-simulations/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

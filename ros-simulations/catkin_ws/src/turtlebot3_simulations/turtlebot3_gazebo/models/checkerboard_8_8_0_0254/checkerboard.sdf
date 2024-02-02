@@ -1,0 +1,905 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+  <model name="checkerboard_8_8_0_0254">
+  <pose>0 0 0.1 0.0 1.5708 0.0</pose>
+  <static>true</static>
+  <link name="checkerboard_8_8_0_0254_body">
+      <visual name="checker_0_0">
+        <pose>-0.08889999999999999 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_1">
+        <pose>-0.08889999999999999 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_2">
+        <pose>-0.08889999999999999 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_3">
+        <pose>-0.08889999999999999 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_4">
+        <pose>-0.08889999999999999 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_5">
+        <pose>-0.08889999999999999 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_6">
+        <pose>-0.08889999999999999 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_0_7">
+        <pose>-0.08889999999999999 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_0">
+        <pose>-0.0635 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_1">
+        <pose>-0.0635 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_2">
+        <pose>-0.0635 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_3">
+        <pose>-0.0635 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_4">
+        <pose>-0.0635 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_5">
+        <pose>-0.0635 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_6">
+        <pose>-0.0635 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_1_7">
+        <pose>-0.0635 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_0">
+        <pose>-0.038099999999999995 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_1">
+        <pose>-0.038099999999999995 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_2">
+        <pose>-0.038099999999999995 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_3">
+        <pose>-0.038099999999999995 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_4">
+        <pose>-0.038099999999999995 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_5">
+        <pose>-0.038099999999999995 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_6">
+        <pose>-0.038099999999999995 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_2_7">
+        <pose>-0.038099999999999995 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_0">
+        <pose>-0.012700000000000003 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_1">
+        <pose>-0.012700000000000003 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_2">
+        <pose>-0.012700000000000003 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_3">
+        <pose>-0.012700000000000003 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_4">
+        <pose>-0.012700000000000003 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_5">
+        <pose>-0.012700000000000003 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_6">
+        <pose>-0.012700000000000003 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_3_7">
+        <pose>-0.012700000000000003 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_0">
+        <pose>0.012700000000000003 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_1">
+        <pose>0.012700000000000003 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_2">
+        <pose>0.012700000000000003 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_3">
+        <pose>0.012700000000000003 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_4">
+        <pose>0.012700000000000003 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_5">
+        <pose>0.012700000000000003 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_6">
+        <pose>0.012700000000000003 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_4_7">
+        <pose>0.012700000000000003 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_0">
+        <pose>0.038099999999999995 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_1">
+        <pose>0.038099999999999995 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_2">
+        <pose>0.038099999999999995 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_3">
+        <pose>0.038099999999999995 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_4">
+        <pose>0.038099999999999995 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_5">
+        <pose>0.038099999999999995 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_6">
+        <pose>0.038099999999999995 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_5_7">
+        <pose>0.038099999999999995 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_0">
+        <pose>0.06349999999999997 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_1">
+        <pose>0.06349999999999997 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_2">
+        <pose>0.06349999999999997 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_3">
+        <pose>0.06349999999999997 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_4">
+        <pose>0.06349999999999997 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_5">
+        <pose>0.06349999999999997 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_6">
+        <pose>0.06349999999999997 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_6_7">
+        <pose>0.06349999999999997 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_0">
+        <pose>0.08889999999999998 -0.08889999999999999 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_1">
+        <pose>0.08889999999999998 -0.0635 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_2">
+        <pose>0.08889999999999998 -0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_3">
+        <pose>0.08889999999999998 -0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_4">
+        <pose>0.08889999999999998 0.012700000000000003 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_5">
+        <pose>0.08889999999999998 0.038099999999999995 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_6">
+        <pose>0.08889999999999998 0.06349999999999997 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 1 1 1</ambient>
+          <diffuse>1 1 1 1</diffuse>
+          <specular>1 1 1 1</specular>
+          <emissive>1 1 1 1</emissive>
+        </material>
+      </visual>
+      <visual name="checker_7_7">
+        <pose>0.08889999999999998 0.08889999999999998 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.0254 0.0254 0.0002</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0 0 0 1</ambient>
+          <diffuse>0 0 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0 0 0 1</emissive>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
